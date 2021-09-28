@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- DEV ICONS -->
+<!-- https://devicon.dev/ -->
+
 # 👋👋 Hello there, I'm William Kang
 ----
 ## Junior Web Developer based in Vancouver, Canada
