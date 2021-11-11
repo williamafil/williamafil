@@ -26,12 +26,12 @@ Here are some ideas to get you started:
 </h3>
 <!-- # 👋👋 Hello there, I'm William Kang -->
 
-- 🔭 I’m currently working on a React Ecommerce Project
-- 🌱 I’m currently learning Next.js
-- 👯 I’m currently looking for a Junior Frontend Developer position...
-- 💬 Ask me about anything...
-- 📫 How to reach me: william.cw.kang[at]gmail.com
-- ⚡ Fun fact: I'm a badminton lover
+- 🔭  I’m currently working on a React Online Shop
+- 🌱  I’m currently learning Next.js
+- 🔰  I’m currently looking for a Junior FE Developer position
+- 💬  Ask me about anything...
+- 📫  How to reach me: william.cw.kang🌀gmail.com
+- ⚡  Fun fact: I'm a badminton lover
 
 
 
