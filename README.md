@@ -25,7 +25,6 @@ Here are some ideas to get you started:
   My name is William Kang, and I am a Front-End Developer based in Vancouver, BC.
 </h3>
 <!-- # 👋👋 Hello there, I'm William Kang -->
-----
 
 - 🔭 I’m currently working on a React Ecommerce Project
 - 🌱 I’m currently learning Next.js
