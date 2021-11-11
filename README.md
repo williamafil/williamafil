@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <!-- DEV ICONS -->
 <!-- https://devicon.dev/ -->
 <h2>
-  Hello there, I'm William Kang
+  Hello there 
   <span>
 <img width="40" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" alt="hello~" />
   </span>
